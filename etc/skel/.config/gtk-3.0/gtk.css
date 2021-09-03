@@ -5,3 +5,4 @@ window.xfce4-panel widget > box > button > image{
 window#whiskermenu-window treeview>* {
   padding:0.2em 0.16em;
 }
+@import 'colors.css';
